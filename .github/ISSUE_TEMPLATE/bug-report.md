@@ -2,6 +2,9 @@
 name: Bug report
 about: " The following template should be used in the creation of most new GitHub
   issues. "
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

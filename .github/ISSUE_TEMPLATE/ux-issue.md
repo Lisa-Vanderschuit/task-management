@@ -2,6 +2,9 @@
 name: UX Issue
 about: This template should only be used for UX issues, all other issues should use
   the General Issue Template.
+title: ''
+labels: ''
+assignees: ''
 
 ---
 

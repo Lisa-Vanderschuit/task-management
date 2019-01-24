@@ -1,6 +1,9 @@
 ---
 name: User Frustration
 about: Highlight a frustration a user might have
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
